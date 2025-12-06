@@ -46,15 +46,15 @@ Certifications
 
 Projects
 
-Text Editors (nano/vim) 
+<a href="https://github.com/Qapple20/Cybersecurity-Labs-PDFs">Text Editors (nano/vim)</a>
 
-Regex & Log Analysis 
+<a href="https://github.com/Qapple20/Cybersecurity-Labs-PDFs">Regex & Log Analysis</a>
 
-Bash Scripting
+<a href="https://github.com/Qapple20/Cybersecurity-Labs-PDFs">Bash Scripting</a>
 
-Nmap Scanning & Enumeration
+<a href="https://github.com/Qapple20/Cybersecurity-Labs-PDFs">Nmap Scanning & Enumeration</a>
 
-Bind/Reverse Shells
+<a href="https://github.com/Qapple20/Cybersecurity-Labs-PDFs">Bind/Reverse Shells</a>
 
 
 
