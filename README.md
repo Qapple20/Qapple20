@@ -28,7 +28,7 @@ Network
 
 Endpoint
 
-<img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/-Event%20Viewer-0078D6?&style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows%20Firewall-D83B01?&style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Group%20Policy-5C2D91?&style=for-the-badge&logo=windows&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows%20Firewall-D83B01?&style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Group%20Policy-5C2D91?&style=for-the-badge&logo=windows&logoColor=white" /> 
 
   
 Log & Detection Skills:
@@ -41,7 +41,7 @@ Log & Detection Skills:
 Certifications
 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-*Expected Dec 2025*
+December 2025
 
 
 Projects
